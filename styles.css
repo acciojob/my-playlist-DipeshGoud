@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+body{
+	text-align:center;
+}
 li{
 	list-style: none;
 }
