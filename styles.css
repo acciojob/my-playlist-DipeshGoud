@@ -8,6 +8,9 @@ li{
 a{
 	text-decoration: none;
 }
+.player_one{
+	text-align:start;
+}
 div{
 	background-color: rgb(255, 255, 255);
 	padding: 10px;
